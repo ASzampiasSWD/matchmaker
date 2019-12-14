@@ -12,3 +12,10 @@ This is a Match-Themed Phishing scoreboard website. If your using this on a comp
 
 ## Author
 Amanda Szampias
+
+
+## Video and Images
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/EhIzL6tA0Ow/0.jpg)](http://www.youtube.com/watch?v=EhIzL6tA0Ow)
+
+![Screenshot](images/scoreboard.png)
